@@ -318,3 +318,6 @@ For graphic designs.
 English: [@SeedChannel](https://telegram.me/seedchannel)
 
 Persian: [@IranSeed](https://telegram.me/iranseed)
+
+
+opened by: king of delhi
